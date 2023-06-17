@@ -6,7 +6,7 @@ By Building the apk from this Unity project you will have the test app that we u
 
 Uses Unity 2020.3.1f1
 
-![Alt text](https://github.com/hiddenDevXR/rokokoQuest/blob/main/resources/rokoko1.PNG)
+![Alt text](https://github.com/hiddenDevXR/VRL-Theatres/blob/main/TestRoom_VR/vrl1.PNG)
 
 ## Aknowledgment
 
